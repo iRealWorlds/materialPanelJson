@@ -9,5 +9,8 @@
     "name": "typicode",
     "OnlinePlayers": "150",
     "Vehicles": "1235"
+  },
+  "mainPageStats": {
+        "name": "typicode"
   }
 }
