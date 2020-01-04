@@ -13,7 +13,15 @@
         "BusinessesTotal": 500,
         "HousesForSale": 523,
         "HousesTotal": 1200,
-        "LoginsThisWeek": 12550
+        "LoginsThisWeek": 12550,
+        "InstitutionalActivity": {
+            "Tickets": [0, 0],
+            "Suspects": [0, 0],
+            "MajorRobberies": [0, 0],
+            "MinorRobberies": [0, 0],
+            "DrugDeals": [0, 0],
+            "Fires": [0, 0]
+        }
     },
     "institutionVotes": [542, 543],
     "recentActivity": [
