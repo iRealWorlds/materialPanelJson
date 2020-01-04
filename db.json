@@ -7,7 +7,7 @@
   ],
   "profile": {
     "name": "typicode",
-    "OnlinePlayers": 150,
-    "Vehicles": 1235
+    "OnlinePlayers": "150",
+    "Vehicles": "1235"
   }
 }
