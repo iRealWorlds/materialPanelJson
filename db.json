@@ -15,5 +15,31 @@
         "HousesTotal": 1200,
         "LoginsThisWeek": 12550
     },
-    "institutionVotes": [542, 543]
+    "institutionVotes": [542, 543],
+    "recentActivity": [
+        {
+            "player": {
+                "id": 1,
+                "name": "Chase.",
+                "avatar": "assets/img/avatar1.jpg"
+            },
+            "text": "bought an Infernus from Chase.."
+        },
+        {
+            "player": {
+                "id": 2,
+                "name": "e.X.e",
+                "avatar": "assets/img/avatar2.jpg"
+            },
+            "text": "bought an Infernus from Chase.."
+        },
+        {
+            "player": {
+                "id": 3,
+                "name": "empty",
+                "avatar": "assets/img/avatar3.jpg"
+            },
+            "text": "bought an Infernus from Chase.."
+        }
+    ]
 }
