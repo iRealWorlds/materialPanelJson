@@ -1,20 +1,11 @@
 {
-    "posts": [{
-        "id": 1,
-        "title": "hello"
-    }],
-    "profile": {
-        "name": "typicode"
-    },
-    "mainPageStats": {
-        "OnlinePlayers": 150,
-        "Vehicles": 1235,
-        "BusinessesForSale": 52,
-        "BusinessesTotal": 500,
-        "HousesForSale": 523,
-        "HousesTotal": 1200,
-        "LoginsThisWeek": 12550,
-        "VotesForYes": 542,
-        "VotesForNo": 543
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
