@@ -15,12 +15,12 @@
         "HousesTotal": 1200,
         "LoginsThisWeek": 12550,
         "InstitutionalActivity": {
-            "Tickets": [0, 0],
-            "Suspects": [0, 0],
-            "MajorRobberies": [0, 0],
-            "MinorRobberies": [0, 0],
-            "DrugDeals": [0, 0],
-            "Fires": [0, 0]
+            "Tickets": [76, 123],
+            "Suspects": [15, 150],
+            "MajorRobberies": [25, 20],
+            "MinorRobberies": [243, 513],
+            "DrugDeals": [121, 1204],
+            "Fires": [125, 126]
         }
     },
     "institutionVotes": [542, 543],
