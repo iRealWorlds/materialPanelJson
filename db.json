@@ -13,8 +13,7 @@
         "BusinessesTotal": 500,
         "HousesForSale": 523,
         "HousesTotal": 1200,
-        "LoginsThisWeek": 12550,
-        "VotesForYes": 542,
-        "VotesForNo": 543
-    }
+        "LoginsThisWeek": 12550
+    },
+    "institutionVotes": [542, 543]
 }
