@@ -3,17 +3,20 @@
         {
             "id": 2,
             "name": "e.X.e",
-            "skin": 217
+            "skin": 217,
+            "status": 0
         }, 
         {
             "id": 3,
             "name": "empty",
-            "skin": 1
+            "skin": 1,
+            "status": 2
         }, 
         {
             "id": 2,
             "name": "Chase.",
-            "skin": 123
+            "skin": 123,
+            "status": 1
         }
     ],
     "mainPageStats": {
