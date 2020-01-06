@@ -51,6 +51,15 @@
             },
             "text": "bought an Infernus from Chase..",
             "date": "2020-01-13 12:53:25"
+        },
+        {
+            "player": {
+                "id": 3,
+                "name": "empty",
+                "avatar": "assets/img/avatar3.jpg"
+            },
+            "text": "bought a Manana from Chase..",
+            "date": "2021-01-13 12:53:25"
         }
     ]
 }
