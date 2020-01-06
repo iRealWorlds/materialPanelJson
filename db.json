@@ -22,7 +22,8 @@
             "DrugDeals": [121, 1204],
             "Fires": [125, 126]
         },
-        "LoginsPerDay": [152, 541, 123, 547, 785, 1000, 1000]
+        "LoginsPerDay": [152, 541, 123, 547, 785, 1000, 1000],
+        "RegistrationsPerDay": [152, 541, 123, 0, 123, 54, 100]
     },
     "institutionVotes": [542, 543],
     "recentActivity": [
